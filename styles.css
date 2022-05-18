@@ -1,0 +1,125 @@
+/* 
+.calculadora{
+    display:block;
+    background-color:rgb(233, 91, 86);
+    width: 340px;
+    height: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+.calculadora td button{
+    display:block;
+    width:70px;
+    height:70px;
+    font-size:25px;
+}
+
+#resultado{
+    display:block;
+    text-align:center;
+    font-size:25px;
+    margin-bottom: 20px;
+    width:300px;
+    height:100px;
+    line-height:100px;
+    background-color: white;
+    border-radius:25px;
+} */
+
+
+
+/* diseño 2  */
+
+.calculadora {
+    display:block;
+    background-color: rgb(154, 133, 211);
+    width:550px;
+    height:410px;
+    padding:40px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.calculadora td button{
+    display:block;
+    width: 90px;
+    height:50px;
+    font-size:25px;
+    box-shadow:2px 3px rgb(118, 95, 202);
+    padding: 0px 55px 0 45px;
+    text-align:center;
+}
+#resultado{
+    display:block;
+    font-size:40px;
+    margin-bottom: 20px;
+    width:470px;
+    height:95px;
+    background-color: rgb(95, 44, 177);
+    border-radius: 20px;
+    color:white;
+    line-height:100px;
+    text-align:center;
+}
+
+#igual{
+    background-color: rgb(243, 243, 75);
+}
+
+#reset{
+    background-color: rgb(207, 77, 175);
+}
+
+#suma{
+    background-color: rgb(236, 208, 229);
+}
+#resta{
+    background-color: rgb(236, 208, 229);;
+}
+#division{
+    background-color: rgb(236, 208, 229);;
+}
+#multiplicacion{
+    background-color: rgb(236, 208, 229);;
+}
+
+
+/*diseño 3
+
+.calculadora {
+    display:block;
+    background-color: rgb(50, 156, 116);
+    width:260px;
+    height:455px;
+    margin: 0 auto;
+    border-radius: 25px;
+    padding:15px;
+}
+
+.calculadora td button{
+    display:block;
+    width: 55px;
+    height:55px;
+    font-size:20px;
+    background-color: rgb(50, 156, 116);
+    color:white;
+    border-radius:30px;
+    text-align:center;
+    margin-bottom:5px;
+    border-color:rgb(106, 218, 177);
+}
+
+#resultado{
+    display:block;
+    font-size:40px;
+    margin-bottom: 30px;
+    width:220px;
+    height:100px;
+    background-color: rgb(53, 51, 56);
+    border-radius: 20px;
+    border-style:solid;
+    color:white;
+    text-align:center;
+    line-height:100px;
+}*/
+
